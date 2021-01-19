@@ -1,1 +1,1 @@
-# paises-favoritos
+# Países favoritos
